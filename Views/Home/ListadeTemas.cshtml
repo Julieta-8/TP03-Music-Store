@@ -1,0 +1,19 @@
+@{
+    ViewData["Title"] = "Lista de Temas";
+ 
+}
+
+
+<h2>Temas de @ViewBag.disco.nombre</h2>
+
+@foreach (Tema canción in @ViewBag.Disco.temas)
+{
+   
+  <ul>
+        <li>Nombre: @canción.nombre</li>
+           <li>Duración: @canción.duracion</li>
+   </ul>
+   
+}
+
+<a href="/Home/Index">← Volver a la página principal</a>

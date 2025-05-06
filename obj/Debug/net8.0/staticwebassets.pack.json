@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\1989.png",
+      "PackagePath": "staticwebassets\\1989.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\Aerosmith.png",
+      "PackagePath": "staticwebassets\\Aerosmith.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\Beatles.png",
+      "PackagePath": "staticwebassets\\Beatles.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\Blind.png",
+      "PackagePath": "staticwebassets\\Blind.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\Cranberries.png",
+      "PackagePath": "staticwebassets\\Cranberries.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\FACE VALUE.png",
+      "PackagePath": "staticwebassets\\FACE VALUE.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\Lush.png",
+      "PackagePath": "staticwebassets\\Lush.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\Queen.png",
+      "PackagePath": "staticwebassets\\Queen.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\Sade.png",
+      "PackagePath": "staticwebassets\\Sade.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\Salad Days.png",
+      "PackagePath": "staticwebassets\\Salad Days.png"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\julie\\Downloads\\TP3_Usoz\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TP3_Usoz.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TP3_Usoz.props",
+      "PackagePath": "build\\TP3_Usoz.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TP3_Usoz.props",
+      "PackagePath": "buildMultiTargeting\\TP3_Usoz.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TP3_Usoz.props",
+      "PackagePath": "buildTransitive\\TP3_Usoz.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

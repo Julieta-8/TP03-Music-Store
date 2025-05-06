@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+
+    <h1>Cassette y Cintas</h1>
+
+
+@foreach (Disco item in ViewBag.disco.Values){
+<div>
+<img src="~/@item.foto">
+
+    <h2>Nombre: @item.nombre  </h2> 
+      <h3>Artista: @item.artista  </h3> 
+    <h3>Género: @item.genero </h3> 
+   <h3>Productor: @item.productor  </h3> 
+
+
+   
+        <a href= @Url.Action("ListadeTemas","Home", new { DNI = item.DNI})>- Temas</a>  
+ </div>   
+} 
